@@ -1,0 +1,10 @@
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\bin\Debug\sezarsifreleme1.exe.config
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\bin\Debug\sezarsifreleme1.exe
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\bin\Debug\sezarsifreleme1.pdb
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.Form1.resources
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.Properties.Resources.resources
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.csproj.GenerateResource.cache
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.exe
+C:\Users\helin\source\repos\sezarsifreleme1\sezarsifreleme1\obj\Debug\sezarsifreleme1.pdb
